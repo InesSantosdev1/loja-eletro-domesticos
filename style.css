@@ -39,17 +39,14 @@ nav > ul{
     display: flex;
     list-style: none;
 }
-main > h2{
-    color:#e01806;
-}
 a{
     text-decoration: none;
     color: #e7e7e7be;
     padding: 25px;
 }
 #image-section{
-    margin: 15px 0px;
-    padding-top: 50px;
+    background-color: #f0f0f05b;
+    padding-top: 20px;
     padding-bottom: 70px;
     display: flex;
     justify-content: space-around;
